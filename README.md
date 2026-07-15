@@ -1,4 +1,4 @@
-# 🛡️ Rate Limiting
+
 
 > **API Traffic Control** · กำแพงป้องกันที่ทุก Server ควรมี
 
